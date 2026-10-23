@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">testinguisdkgithub</string>
+    <string name="sample_gate_title">Bolt Earth SDK sample</string>
+    <string name="sample_optional_user_id_hint">User ID</string>
+    <string name="sample_user_id_required">Enter a User ID to continue.</string>
+    <string name="sample_sdk_token_hint">SDK token</string>
+    <string name="sample_sdk_token_required">Enter an SDK token, or set BOLT_SDK_APP_TOKEN in gradle.properties (see app/build.gradle).</string>
+    <string name="sample_sdk_package_hint">App package</string>
+    <string name="sample_initialize_sdk">Initialize SDK</string>
+    <string name="sample_open_charger_booking_flow">Open Charger Booking Flow</string>
+    <string name="sample_preselected_charger_id_hint">Preselected Charger ID (optional)</string>
+    <string name="sample_sdk_language_label">SDK UI language</string>
+    <string name="sample_sdk_language_subtitle">Applies to in-SDK screens after you tap Continue.</string>
+    <string name="sample_locale_follow_device">System default</string>
+    <string name="sample_theme_color_label">Theme colour</string>
+    <string name="sample_theme_color_subtitle">Pick a preset or enter a custom hex value</string>
+    <string name="sample_custom_color_hint">Custom colour (#RRGGBB)</string>
+    <string name="sample_open_bookings_list">Booking List</string>
+    <string name="open_user_wallet">Open User Wallet</string>
+    <string name="sample_charger_id_hint">Charger ID (e.g. BOLT_ABC123)</string>
+    <string name="sample_current_soc_hint">Current SOC % (0–100, blank = unknown)</string>
+    <string name="sample_charger_id_required">Enter a charger ID to fetch.</string>
+    <string name="sample_fetch_charger">Fetch Charger</string>
+    <string name="sample_charger_response_title">Charger Response</string>
+    <string name="logout">Logout</string>
+    <string name="sample_vehicle_id_hint">Vehicle ID (optional)</string>
+    <string name="fetch_contact_support_info">Fetch Contact Support Info</string>
+</resources>
